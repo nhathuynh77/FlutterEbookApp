@@ -28,7 +28,7 @@
 .packages
 .pub-cache/
 .pub/
-/build/
+/source/build/
 
 # Web related
 lib/generated_plugin_registrant.dart
